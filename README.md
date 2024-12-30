@@ -1,7 +1,9 @@
 # rsMicroISS
 
-## Use an ESP32 Microcontroller to Track the ISS!
+### Use an ESP32 Microcontroller to Track the ISS!
 
+### Requirements
+I used an ESP32 development board: `ESP32-WROVER-E`
 
 ### Steps
 
